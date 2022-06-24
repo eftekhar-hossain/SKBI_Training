@@ -1,1 +1,1 @@
-<img title="" src="Figures/EACL.PNG" alt="">
+<img title="" src="pic.PNG" alt="">
