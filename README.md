@@ -18,3 +18,7 @@ Dear all, you will be happy to know that the Establishment of Sheikh Kamal IT Bu
 -State-of-the-art AI-ML Lab with GPU based machines
 
 **Participants: 120 Maximum (3rd/4th Year/graduate Students) [Selected candidates].**
+
+
+
+[Dataset Link](https://drive.google.com/drive/folders/1COCRGbnpzSKZ5L1mTvlxQ4IlRk9xq1eD?usp=sharing)
