@@ -1,6 +1,6 @@
 # Short Training in Machine Learning with Python
 
-**Duration:** 2 Hours
+**Duration:** 2 Hours   |  Date: 25 February, 2024
 --
 ## Contents
 
