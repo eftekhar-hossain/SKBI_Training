@@ -8,23 +8,23 @@
 
 
 
-1.   **Introductory Python** `(~30 Minutes)`
+1.   **Introductory Python** `(~40 Minutes)`
 
       *   Branching and Looping
       *   List and Dictionaries
 
-2.   **Machine Learning** `(~40 Minutes)`
+2.   **Machine Learning** `(~60 Minutes)`
 
       *   Supervised and Unsupervised Learning
       *   Regression Algorithm 
       *   Classification Algorithm (**Project:** Handwritten Character Recognition) 
       *   Intro to Natural Language Processing (**Project:** Textual Emotion Recognition)
 
-3.   **Deep Learning**   `(~60 Minutes)`
+3.   **Deep Learning**   `(~30 Minutes)`
 
       *   Basics of Deep Neural Network
       *   Convolutional Neural Network       
-      *   **Project :** *Plant Leaf Disease Detection (Computer Vision)*
+      *   **Project:** *Plant Leaf Disease Detection (Computer Vision)*
 
 
 
